@@ -1,0 +1,60 @@
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\0\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\10\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\11\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\12\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\13\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\1\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\2\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\3\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\4\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\5\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\6\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\7\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\8\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\9\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\none\cover.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\logo.png
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\0\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\0\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\10\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\10\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\11\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\11\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\12\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\12\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\13\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\13\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\1\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\1\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\2\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\2\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\3\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\3\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\4\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\4\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\5\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\5\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\6\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\6\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\7\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\7\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\8\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\8\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\9\fire.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\9\thunderbolt.dxt
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\none\blue.amd
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\data\lighting\none\red.amd
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\profile.ini
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\Yulgang Lighting.exe
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\Yulgang Lighting.pdb
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\INIFileParser.dll
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\INIFileParser.xml
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang_Lighting.FormMain.resources
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang_Lighting.Properties.Resources.resources
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang Lighting.csproj.GenerateResource.cache
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang Lighting.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang Lighting.csproj.CopyComplete
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang Lighting.exe
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang Lighting.pdb
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\bin\Release\Yulgang Lighting.exe.config
+D:\Visual Studio\Yulgang Lighting\Yulgang Lighting\obj\Release\Yulgang_Lighting.FormWarning.resources
